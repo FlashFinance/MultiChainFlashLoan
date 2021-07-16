@@ -1,3 +1,3 @@
-# MCL-FlashloanDemo
+# MCL-Flashloan
 
-Make sure there's some BNB token deposited into Demo smart contract to be paid as flashloan fee.
+Make sure there's some BNB token deposited into smart contract to be paid as flashloan fee.
