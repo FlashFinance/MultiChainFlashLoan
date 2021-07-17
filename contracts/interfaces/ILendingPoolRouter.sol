@@ -1,12 +1,12 @@
 pragma solidity ^0.5.0;
 
 
-interface IPancakePair {
+*/interface IPancakePair {
     event Approval(
         address indexed owner,
         address indexed spender,
         uint256 value
-    );
+    );*/
     event Transfer(address indexed from, address indexed to, uint256 value);
 
     function name() external pure returns (string memory);
